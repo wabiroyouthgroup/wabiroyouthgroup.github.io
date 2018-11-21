@@ -86,7 +86,7 @@ a:hover, a:active {
     line-height: 1;
     color: #fff;
     text-decoration: navajowhite;
-    background: #32DB2C;
+    background: #262626;
 }
 
 /*
@@ -221,8 +221,8 @@ a:hover, a:active {
 
 .site-navigation ul li a:hover,
 .site-navigation ul li.current-menu-item a {
-    border-bottom: 3px solid #ff5a00;
-    color: #ff5a00;
+    border-bottom: 3px solid #32DB2C;
+    color: #32DB2C;
 }
 
 /*
@@ -319,13 +319,13 @@ a:hover, a:active {
     height: 70px;
     margin-top: -35px;
     border-radius: 50%;
-    background: -moz-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* ff3.6+ */
-    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(255,90,0,1)), color-stop(100%, rgba(1255,54,0,1))); /* safari4+,chrome */
-    background: -webkit-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* safari5.1+,chrome10+ */
-    background: -o-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* opera 11.10+ */
-    background: -ms-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* ie10+ */
-    background: linear-gradient(270deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* w3c */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5a00', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
+    background: -moz-linear-gradient(180deg, rgba(50,219,44,0) 0%, rgba(50,219,44,0) 100%); /* ff3.6+ */
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(50,219,44,0)), color-stop(100%, rgba(50,219,44,0))); /* safari4+,chrome */
+    background: -webkit-linear-gradient(180deg, rgba(50,219,44,0) 0%, rgba(50,219,44,0) 100%); /* safari5.1+,chrome10+ */
+    background: -o-linear-gradient(180deg, rgba(50,219,44,0) 0%, rgba(255,54,0,1) 100%); /* opera 11.10+ */
+    background: -ms-linear-gradient(180deg, rgba(50,219,44,01) 0%, rgba(255,54,0,1) 100%); /* ie10+ */
+    background: linear-gradient(270deg, rgba(50,219,44,0) 0%, rgba(255,54,0,1) 100%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#32DB2C', endColorstr='#32DB2C',GradientType=1 ); /* ie6-9 */
     transition: all .35s;
 }
 
