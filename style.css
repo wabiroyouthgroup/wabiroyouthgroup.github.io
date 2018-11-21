@@ -42,7 +42,7 @@ a:hover, a:active {
 # Header Bar
 --------------------------------*/
 .top-header-bar {
-    background: #ff4800;
+    background: #32DB2C;
     color: #fff;
 }
 
@@ -86,7 +86,7 @@ a:hover, a:active {
     line-height: 1;
     color: #fff;
     text-decoration: navajowhite;
-    background: #262222;
+    background: #32DB2C;
 }
 
 /*
@@ -177,7 +177,7 @@ a:hover, a:active {
     height: 100%;
     padding: 30px 15px;
     margin: 0;
-    background: #fff;
+    background: #32DB2C;
     list-style: none;
     overflow-x: scroll;
     transition: all 0.35s;
@@ -196,7 +196,7 @@ a:hover, a:active {
     font-size: 14px;
     font-weight: 600;
     line-height: 1;
-    color: #262626;
+    color: #32DB2C;
     text-decoration: none;
     transition: color .35s;
 }
